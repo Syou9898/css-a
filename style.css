@@ -23,12 +23,9 @@ nav li {
     height: 130px;
     width: 1100px; 
 }
-article {
-    background-color: brown;
 
-}
 article p {
-    background-color: antiquewhite;
+    
     margin-bottom: 0;
     margin-top: 350px;
     font-size: 40px;
